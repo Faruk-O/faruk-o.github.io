@@ -1,4 +1,4 @@
-const int ledPin = 3;      // the pin that the LED is attached to
+const int ledPin = 3;     // pin that the LED is attached to
 
 void setup() {
   // initialize the serial communication:
